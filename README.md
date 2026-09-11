@@ -1,80 +1,56 @@
 <div align="center">
 
-# Hi, I'm Het Patel 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=HET%20PATEL&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20LIFELONG%20LEARNER&descAlignY=62&descSize=15&descColor=cbd5e1&animation=fadeIn" alt="Het Patel profile banner"/>
 
-### Full-Stack Developer · Builder · Lifelong Learner
+<br/>
 
-I enjoy turning ideas into practical software and continuously expanding my skills across **web development, backend systems, cloud, data, and machine learning**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=720&lines=Building+practical+software.;Exploring+modern+web+technologies.;Learning+by+building.;Always+improving." alt="Typing introduction"/>
 
-<p>
-  <a href="https://github.com/hetp2241-dotcom">GitHub</a> ·
-  <a href="mailto:hetp2241@gmail.com">Email</a> ·
-  <a href="https://x.com/hetp2241">X</a> ·
-  <a href="https://instagram.com/hetp2241">Instagram</a>
-</p>
+<br/><br/>
+
+<a href="mailto:hetp2241@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/hetp2241-dotcom">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://x.com/hetp2241">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://instagram.com/hetp2241">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **Servola**
-- 🌱 Currently learning **Angular** and **WebSockets**
-- 🧩 Interested in building practical, maintainable software
-- ☁️ Exploring **AWS, Docker, and modern development workflows**
-- 📊 Working across **data analysis and machine learning**
-- 📫 **[hetp2241@gmail.com](mailto:hetp2241@gmail.com)**
-
----
-
-## 🧠 What I Work With
+## 👨‍💻 Who I Am
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🌐 Web & Backend
+### Building with purpose
 
-- Angular
-- React
-- Django
-- JavaScript
-- WebSockets
+I'm **Het Patel**, a developer who enjoys learning through real projects, experimenting with technologies, and turning ideas into useful software.
+
+My current work and learning sit at the intersection of **web development, backend engineering, real-time systems, cloud, data, and machine learning**.
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 📊 Data & ML
+### ⚡ Current Focus
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Plotly
-- scikit-learn
+**Working on**
+→ Servola
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Learning**
+→ Angular  
+→ WebSockets
 
-### 🗄️ Databases & Cloud
-
-- PostgreSQL
-- MongoDB
-- MySQL
-- AWS
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Tools & DevOps
-
-- Git
-- GitHub
-- GitHub Actions
-- Docker
+**Contact**
+→ [hetp2241@gmail.com](mailto:hetp2241@gmail.com)
 
 </td>
 </tr>
@@ -82,100 +58,161 @@ I enjoy turning ideas into practical software and continuously expanding my skil
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-</p>
-
----
-
 ## 🚀 Featured Work
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔭 Servola
+**Current Project**
 
-**Current project**
+A project I'm actively working on while expanding my experience with modern web technologies and real-time communication.
 
-I'm currently working on **Servola**, with my development interests continuing to grow around modern web technologies and real-time communication.
+**Focus**
 
-> Project details will be linked here when a public repository is available.
+`Angular` · `WebSockets` · `Web Development`
 
----
+</td>
 
-## 🎯 Current Focus
+<td width="50%" valign="top">
 
-```text
-Frontend       → Angular
-Real-time      → WebSockets
-Backend        → Django
-Data           → Python · Pandas · NumPy
-ML             → scikit-learn
-Cloud          → AWS
-DevOps         → Docker · GitHub Actions
-```
+### 📌 Project Showcase
+**Growing Portfolio**
 
----
+My public project portfolio will live here as repositories become available on this connected GitHub account.
 
-## 📈 GitHub Activity
+I prefer showcasing **real repositories, real technology choices, and real results** rather than placeholder projects.
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hetp2241-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Het Patel GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetp2241-dotcom&layout=compact&hide_border=true&theme=transparent" alt="Het Patel top languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hetp2241-dotcom&hide_border=true&theme=transparent" alt="Het Patel GitHub contribution streak"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🌐 Find Me Online
+## 🧩 Engineering Toolkit
+
+### Languages
 
 <p>
-  <a href="https://github.com/hetp2241-dotcom">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:hetp2241@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://x.com/hetp2241">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://instagram.com/hetp2241">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" alt="C C++ Python JavaScript"/>
+</p>
+
+### Frontend & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,django" alt="Angular React Django"/>
+</p>
+
+### Data & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+</p>
+
+### Data, Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,docker,git,github,githubactions" alt="PostgreSQL MongoDB MySQL AWS Docker Git GitHub GitHub Actions"/>
+</p>
+
+---
+
+## 🏗️ How I Think About Development
+
+<div align="center">
+
+| Discover | Build | Iterate |
+|:---:|:---:|:---:|
+| Understand the problem | Turn ideas into working software | Improve through feedback |
+| Explore the technology | Keep the implementation practical | Refine quality and usability |
+
+</div>
+
+---
+
+## 📈 GitHub Overview
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hetp2241-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&card_width=420" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetp2241-dotcom&layout=compact&hide_border=true&theme=transparent&card_width=420" alt="Top languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=hetp2241-dotcom&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🎯 Current Learning Path
+
+<div align="center">
+
+```
+Angular ───────────────► Frontend Engineering
+        │
+        └──────────────► Component Architecture
+
+WebSockets ────────────► Real-Time Applications
+        │
+        └──────────────► Live Communication
+
+Python + Data ─────────► Analytics & Machine Learning
+        │
+        └──────────────► Practical Data Workflows
+
+AWS + Docker ──────────► Cloud & Deployment
+```
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+<a href="https://github.com/hetp2241-dotcom">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:hetp2241@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://x.com/hetp2241">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://instagram.com/hetp2241">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 </p>
 
 ---
 
 <div align="center">
 
-### ⚡ Build. Learn. Improve. Repeat.
+### “Build. Learn. Iterate.”
 
-<sub>Thanks for visiting my profile.</sub>
+<sub>Thanks for visiting my profile — feel free to explore, connect, or collaborate.</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=hetp2241-dotcom&style=for-the-badge&color=64748b&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer" alt="Footer banner"/>
 
 </div>
