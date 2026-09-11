@@ -384,6 +384,24 @@ $ status
 
 ---
 
+## 🎮 Pac-Man Contribution Arcade
+
+<div align="center">
+
+**The contribution graph becomes the game board.**
+
+<!-- Pac-Man contribution graph animation -->
+<img src="https://raw.githubusercontent.com/hetp2241-dotcom/hetp2241-dotcom/main/pacman-contribution-graph-dark.svg" alt="Animated Pac-Man contribution graph" width="100%"/>
+
+<br/>
+
+> 🟡 Eat contributions · 👻 Chase commits · 🚀 Keep shipping
+
+</div>
+
+
+---
+
 ## 🧠 Developer Mindset
 
 <div align="center">
