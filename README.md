@@ -433,12 +433,20 @@ $ status
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hetp2241-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&card_width=420" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetp2241-dotcom&layout=compact&hide_border=true&theme=transparent&card_width=420" alt="Top languages"/>
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=hetp2241-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&card_width=420" alt="GitHub statistics" width="100%"/>
+</td>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetp2241-dotcom&layout=compact&hide_border=true&theme=transparent&card_width=420" alt="Top languages" width="100%"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=hetp2241-dotcom&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=hetp2241-dotcom&theme=transparent&hide_border=true" alt="GitHub contribution streak" width="100%"/>
 
 </div>
 
