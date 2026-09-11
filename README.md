@@ -128,6 +128,138 @@ I prefer showcasing **real repositories, real technology choices, and real resul
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,docker,git,github,githubactions" alt="PostgreSQL MongoDB MySQL AWS Docker Git GitHub GitHub Actions"/>
 </p>
 
+
+---
+
+## 🎮 Developer Arcade
+
+<div align="center">
+
+### 🕹️ GitHub Mini-Game
+
+**How fast can you collect the bugs?**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=650&center=true&vCenter=true&width=650&lines=%5B+%E2%9A%A0%EF%B8%8F+BUG+DETECTED+%5D;%5B+%F0%9F%92%BB+DEBUGGING...+%5D;%5B+%E2%9C%85+PATCH+DEPLOYED+%5D;%5B+%F0%9F%9A%80+SHIP+IT!+%5D" alt="Developer arcade animation"/>
+
+<table>
+<tr>
+<td align="center">
+
+**1. FIND**
+
+🪲 BUG
+
+</td>
+<td align="center">
+
+**2. DEBUG**
+
+🔧 PATCH
+
+</td>
+<td align="center">
+
+**3. SHIP**
+
+🚀 DEPLOY
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🎯 Play the text-mode challenge</b></summary>
+
+<br/>
+
+```text
+╭──────────────────────────────────────────────╮
+│            HET PATEL • DEBUG ARCADE          │
+├──────────────────────────────────────────────┤
+│                                              │
+│   🪲       🪲                    🪲          │
+│                  🐛                          │
+│        ⚠️            🪲                      │
+│                                              │
+│   [A] Find the bug                            │
+│   [B] Read the logs                          │
+│   [C] Ship to production                     │
+│                                              │
+│   SCORE:  ███████████████░░  850             │
+│   STATUS: READY TO BUILD                     │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+**Developer rule:** if it works, understand why. If it breaks, learn why.
+
+</details>
+
+</div>
+
+---
+
+## ✨ Profile Highlights
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻
+**Build**
+
+Practical software
+
+</td>
+<td align="center" width="25%">
+
+### ⚡
+**Learn**
+
+Angular & WebSockets
+
+</td>
+<td align="center" width="25%">
+
+### 📊
+**Explore**
+
+Data & ML
+
+</td>
+<td align="center" width="25%">
+
+### ☁️
+**Ship**
+
+Cloud & DevOps
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧪 Developer Status
+
+<div align="center">
+
+| System | Status |
+|:---|:---:|
+| 🧠 Learning mode | ACTIVE |
+| 🔭 Current project | SERVOLA |
+| 🌐 Web focus | ANGULAR |
+| ⚡ Real-time focus | WEBSOCKETS |
+| ☁️ Cloud interest | AWS |
+| 🐳 DevOps interest | DOCKER |
+| 🐛 Bugs defeated today | ∞ |
+
+</div>
+
 ---
 
 ## 🏗️ How I Think About Development
