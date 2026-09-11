@@ -433,23 +433,13 @@ $ status
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=hetp2241-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&card_width=420" alt="GitHub statistics" width="100%"/>
-</td>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetp2241-dotcom&layout=compact&hide_border=true&theme=transparent&card_width=420" alt="Top languages" width="100%"/>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=hetp2241-dotcom&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=false" alt="GitHub statistics"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=hetp2241-dotcom&theme=transparent&hide_border=true" alt="GitHub contribution streak" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=hetp2241-dotcom&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
-
 ---
 
 ## 🎯 Current Learning Path
