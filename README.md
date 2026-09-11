@@ -1,18 +1,181 @@
-# 💫 About Me:
-🔭 I’m currently working on Servola<br><br>🌱 I’m currently learning Angular,Websocket<br><br>📫 How to reach me hetp2241@gmail.com
+<div align="center">
 
+# Hi, I'm Het Patel 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hetp2241) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patel het) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hetp2241) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Patel Het) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hetp2241@gmail.com) 
+### Full-Stack Developer · Builder · Lifelong Learner
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hetp2241-dotcom&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hetp2241-dotcom&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hetp2241-dotcom&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy turning ideas into practical software and continuously expanding my skills across **web development, backend systems, cloud, data, and machine learning**.
+
+<p>
+  <a href="https://github.com/hetp2241-dotcom">GitHub</a> ·
+  <a href="mailto:hetp2241@gmail.com">Email</a> ·
+  <a href="https://x.com/hetp2241">X</a> ·
+  <a href="https://instagram.com/hetp2241">Instagram</a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hetp2241-dotcom&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Servola**
+- 🌱 Currently learning **Angular** and **WebSockets**
+- 🧩 Interested in building practical, maintainable software
+- ☁️ Exploring **AWS, Docker, and modern development workflows**
+- 📊 Working across **data analysis and machine learning**
+- 📫 **[hetp2241@gmail.com](mailto:hetp2241@gmail.com)**
+
+---
+
+## 🧠 What I Work With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web & Backend
+
+- Angular
+- React
+- Django
+- JavaScript
+- WebSockets
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data & ML
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Plotly
+- scikit-learn
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Databases & Cloud
+
+- PostgreSQL
+- MongoDB
+- MySQL
+- AWS
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Tools & DevOps
+
+- Git
+- GitHub
+- GitHub Actions
+- Docker
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+</p>
+
+---
+
+## 🚀 Featured Work
+
+### 🔭 Servola
+
+**Current project**
+
+I'm currently working on **Servola**, with my development interests continuing to grow around modern web technologies and real-time communication.
+
+> Project details will be linked here when a public repository is available.
+
+---
+
+## 🎯 Current Focus
+
+```text
+Frontend       → Angular
+Real-time      → WebSockets
+Backend        → Django
+Data           → Python · Pandas · NumPy
+ML             → scikit-learn
+Cloud          → AWS
+DevOps         → Docker · GitHub Actions
+```
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hetp2241-dotcom&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Het Patel GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetp2241-dotcom&layout=compact&hide_border=true&theme=transparent" alt="Het Patel top languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hetp2241-dotcom&hide_border=true&theme=transparent" alt="Het Patel GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🌐 Find Me Online
+
+<p>
+  <a href="https://github.com/hetp2241-dotcom">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:hetp2241@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/hetp2241">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://instagram.com/hetp2241">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Build. Learn. Improve. Repeat.
+
+<sub>Thanks for visiting my profile.</sub>
+
+</div>
