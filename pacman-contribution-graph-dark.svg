@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+<title id="title">Pac-Man contribution arcade</title>
+<desc id="desc">A decorative animated Pac-Man arcade scene for a GitHub profile README.</desc>
+<rect width="900" height="280" rx="20" fill="#0d1117"/>
+<text x="50" y="45" fill="#58a6ff" font-family="monospace" font-size="20" font-weight="700">CONTRIBUTION ARCADE</text>
+<text x="50" y="72" fill="#8b949e" font-family="monospace" font-size="13">INSERT CODE • BUILD • SHIP</text>
+<g stroke="#21262d" stroke-width="2">
+<rect x="40" y="95" width="820" height="145" rx="14" fill="#0b0f14"/>
+<path d="M70 130H830M70 165H830M70 200H830" opacity=".8"/>
+</g>
+<g fill="#f0f6fc">
+<circle cx="105" cy="132" r="4"/><circle cx="145" cy="132" r="4"/><circle cx="185" cy="132" r="4"/><circle cx="225" cy="132" r="4"/><circle cx="265" cy="132" r="4"/><circle cx="305" cy="132" r="4"/><circle cx="345" cy="132" r="4"/><circle cx="385" cy="132" r="4"/><circle cx="425" cy="132" r="4"/><circle cx="465" cy="132" r="4"/><circle cx="505" cy="132" r="4"/><circle cx="545" cy="132" r="4"/><circle cx="585" cy="132" r="4"/><circle cx="625" cy="132" r="4"/><circle cx="665" cy="132" r="4"/><circle cx="705" cy="132" r="4"/><circle cx="745" cy="132" r="4"/><circle cx="785" cy="132" r="4"/>
+<circle cx="105" cy="167" r="4"/><circle cx="145" cy="167" r="4"/><circle cx="185" cy="167" r="4"/><circle cx="225" cy="167" r="4"/><circle cx="265" cy="167" r="4"/><circle cx="305" cy="167" r="4"/><circle cx="345" cy="167" r="4"/><circle cx="385" cy="167" r="4"/><circle cx="425" cy="167" r="4"/><circle cx="465" cy="167" r="4"/><circle cx="505" cy="167" r="4"/><circle cx="545" cy="167" r="4"/><circle cx="585" cy="167" r="4"/><circle cx="625" cy="167" r="4"/><circle cx="665" cy="167" r="4"/><circle cx="705" cy="167" r="4"/><circle cx="745" cy="167" r="4"/><circle cx="785" cy="167" r="4"/>
+<circle cx="105" cy="202" r="4"/><circle cx="145" cy="202" r="4"/><circle cx="185" cy="202" r="4"/><circle cx="225" cy="202" r="4"/><circle cx="265" cy="202" r="4"/><circle cx="305" cy="202" r="4"/><circle cx="345" cy="202" r="4"/><circle cx="385" cy="202" r="4"/><circle cx="425" cy="202" r="4"/><circle cx="465" cy="202" r="4"/><circle cx="505" cy="202" r="4"/><circle cx="545" cy="202" r="4"/><circle cx="585" cy="202" r="4"/><circle cx="625" cy="202" r="4"/><circle cx="665" cy="202" r="4"/><circle cx="705" cy="202" r="4"/><circle cx="745" cy="202" r="4"/><circle cx="785" cy="202" r="4"/>
+</g>
+<g>
+<g transform="translate(110 150)">
+<path d="M0 17A17 17 0 1 0 0 -17L15 -8L0 0L15 8Z" fill="#ffd43b">
+<animateTransform attributeName="transform" type="translate" values="110 150;720 150;110 150" dur="7s" repeatCount="indefinite"/>
+</path>
+</g>
+<g>
+<path d="M0 18C-14 18-18 3-18 0C-18-12-10-18 0-18C10-18 18-12 18 0C18 4 14 4 10 1L5 8L0 1L-5 8L-10 1C-14 4-18 4-18 0" fill="#ff5f56">
+<animateTransform attributeName="transform" type="translate" values="760 150;700 150;760 150" dur="3.5s" repeatCount="indefinite"/>
+</path>
+</g>
+</g>
+<text x="50" y="265" fill="#8b949e" font-family="monospace" font-size="12">STATUS: ONLINE • SCORE: KEEP SHIPPING</text>
+</svg>
