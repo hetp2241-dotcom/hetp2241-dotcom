@@ -262,6 +262,160 @@ Cloud & DevOps
 
 ---
 
+## 🎮 The Developer Arcade
+
+<div align="center">
+
+### 🕹️ Break the Build. Fix the Bug. Ship the Patch.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1600&pause=500&center=true&vCenter=true&width=760&lines=%24+git+status+%E2%80%94+BUG+FOUND;%24+npm+run+debug+%E2%80%94+PATCHING...;%24+git+commit+-m+%22fix%3A+ship+it%22;%24+git+push+origin+main+%E2%80%94+DEPLOYED" alt="Developer terminal animation"/>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧩 LEVEL 01
+**Find the Bug**
+
+🪲 → 🔎 → 🧠
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ LEVEL 02
+**Write the Fix**
+
+💻 → 🔧 → ✅
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 LEVEL 03
+**Ship It**
+
+📦 → 🚀 → 🌍
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🎯 PLAY — Terminal Challenge</b></summary>
+
+<br/>
+
+```text
+╭────────────────────────────────────────────────────╮
+│              HET PATEL // DEBUG ARCADE             │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  SYSTEM: ONLINE                         v1.0.26    │
+│                                                    │
+│  [01] 🪲 Bug escaped into production               │
+│  [02] 🔎 Trace the issue                           │
+│  [03] 🔧 Apply the patch                           │
+│  [04] 🚀 Deploy safely                             │
+│                                                    │
+│  HP:      ████████████████████ 100%               │
+│  DEBUG:   ████████████████░░░░  82%               │
+│  BUILD:   ████████████████████ READY              │
+│                                                    │
+│  STATUS:  <SYSTEM READY FOR THE NEXT BUILD>       │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
+
+**Achievement unlocked:** `BUG → FIX → SHIP`
+
+</details>
+
+</div>
+
+---
+
+## 🪄 Profile Terminal
+
+<div align="center">
+
+```console
+$ whoami
+hetp2241
+
+$ role
+full-stack developer
+
+$ current-project
+Servola
+
+$ learning
+Angular + WebSockets
+
+$ mindset
+build → learn → iterate
+
+$ mission
+turn ideas into useful software
+
+$ status
+● ONLINE
+```
+
+</div>
+
+---
+
+## 🏆 Developer Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">💻<br/><b>Builder</b><br/><sub>Practical software</sub></td>
+<td align="center">⚡<br/><b>Real-Time</b><br/><sub>WebSockets</sub></td>
+<td align="center">🌐<br/><b>Web</b><br/><sub>Angular · React</sub></td>
+<td align="center">📊<br/><b>Data</b><br/><sub>Python · ML</sub></td>
+<td align="center">☁️<br/><b>Cloud</b><br/><sub>AWS · Docker</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧠 Developer Mindset
+
+<div align="center">
+
+```text
+               ┌───────────────┐
+               │    DISCOVER   │
+               │ Understand    │
+               │ Experiment    │
+               └───────┬───────┘
+                       │
+                       ▼
+               ┌───────────────┐
+               │     BUILD     │
+               │ Implement     │
+               │ Ship          │
+               └───────┬───────┘
+                       │
+                       ▼
+               ┌───────────────┐
+               │    ITERATE    │
+               │ Measure       │
+               │ Improve       │
+               └───────┬───────┘
+                       │
+                       └──────────────► REPEAT
+```
+
+</div>
+
+---
+
 ## 🏗️ How I Think About Development
 
 <div align="center">
